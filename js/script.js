@@ -1,4 +1,4 @@
-// header start 
+// header start from here
 
 (function($) { // Begin jQuery
     $(function() { // DOM ready
